@@ -60,23 +60,16 @@ int main() {
 <tbody>
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
+<td align="center" width="20%"> 
 <img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
 </td>
-
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 <td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
 </td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
+<td align="center" width="20%"> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
 </td>
 </tr>
@@ -89,8 +82,5 @@ int main() {
 <a href="mailto:burakgolec.ofc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/muhammet-burak-g%C3%B6le%C3%A7-71b2871b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-
-<img alt="github contribution snake animation" src="https://github.com/MuhammetBurakGolec/MuhammetBurakGolec/blob/output/github-contribution-grid-snake.svg">
 
 <h1 align="center">Anfall är bästa försvar.</h1>
