@@ -5,7 +5,7 @@ Hi, I'm Muhammet Burak Golec
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=32&color=7B7C80&center=true&vCenter=true&lines=Welcome+to+my+profile+;I\'m+a+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=32&color=7B7C80&center=true&vCenter=true&lines=Welcome+to+my+profile+;I+am+a+Engineering+Student)](https://git.io/typing-svg)
 
 
 
