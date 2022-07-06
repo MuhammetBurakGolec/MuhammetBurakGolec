@@ -52,7 +52,11 @@ int main() {
 </p>
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetBurakGolec&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/MuhammetBurakGolec">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetBurakGolec&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 </br>
 
 [![MuhammetBurakGolec Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
