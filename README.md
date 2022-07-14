@@ -62,11 +62,9 @@ int main() {
 [![MuhammetBurakGolec Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammetBurakGolec&theme=tokyonight)](https://git.io/praveenscience)
 
 
-## 🛠My Tools:
 <br>
 <table>
 <tbody>
-
 <h2> Skills  </h2>
  <td>
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
