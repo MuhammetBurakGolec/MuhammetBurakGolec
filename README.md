@@ -9,13 +9,13 @@ Hi, I'm Muhammet Burak Golec
 
 ```C
 # include <Coffee>
-# define Target
 # include <iostream>
-
+# define Target 
 
 int main() {
 
-    std::cout << "Hello world!";
+    std::cout << "Hello World!";
+    std::cout << "Never Give Up"; 
     
     return 0;
 }
