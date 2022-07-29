@@ -25,10 +25,8 @@ int main() {
 
 
 <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-    
-    if you like what i do, maybe consider buying me a coffee/tea 
+        <img src="NeverGiveUp.gif" alt="" height="">
+    </div> 
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/burakgolec" target="_blank">
