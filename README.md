@@ -10,7 +10,7 @@ Hi, I'm Muhammet Burak Golec
 ```C
 # include <Coffee>
 # include <iostream>
-# define Target "Cyber Security" 
+# define Target "Cyber Threat Intelligence Analyst" 
 
 int main() {
 
