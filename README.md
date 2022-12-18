@@ -86,7 +86,9 @@ int main() {
 
 </tbody>
 </table>
-### Talk with me :
+
+### Talk with me
+
 <p float="left">
 <a href="mailto:burakgolec.ofc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/muhammet-burak-g%C3%B6le%C3%A7-71b2871b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
