@@ -57,35 +57,7 @@ int main() {
 </p>
 </br>
 
-[![MuhammetBurakGolec Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammetBurakGolec&theme=tokyonight)](https://git.io/praveenscience)
-
-
 <br>
-<table>
-<tbody>
-<h2> Skills  </h2>
- <td>
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
- </td><td>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
-  </td><td>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
- </td><td>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
- </td><td>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
- </td><td>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> 
- </td><td>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> 
-  </td><td>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
- </td>
- </tr>
-
-
-</tbody>
-</table>
 
 ### Talk with me
 
