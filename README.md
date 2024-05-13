@@ -5,7 +5,7 @@ Hi, I'm Muhammet Burak Golec
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3300&width=475&lines=Welcome++to+my+profile;I'm+an++Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=475&size=25&duration=3300&pause=1000&color=93F700&random=false&width=435&lines=Welcome+to+my+profile;+I'm+an+Engineering+Student;************)](https://git.io/typing-svg)
 
 ```Go
 package life
