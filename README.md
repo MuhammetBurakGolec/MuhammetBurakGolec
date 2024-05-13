@@ -7,17 +7,17 @@ Hi, I'm Muhammet Burak Golec
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3300&width=475&lines=Welcome++to+my+profile;I'm+an++Engineering+Student)](https://git.io/typing-svg)
 
-```C
-# include <Coffee>
-# include <iostream>
-# define Target "DevSecOps" 
+```Go
+package life
 
-int main() {
+import "work"
 
-    std::cout << "Hello World!";
-    std::cout << "Never Give Up"; 
-    
-    return 0;
+const Target = "DevSecOps"
+
+func main() {
+    work("init 5")
+    work("Never Give Up")
+    work.wait("Success")
 }
 ```
 
