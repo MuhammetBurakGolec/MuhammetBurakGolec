@@ -27,18 +27,26 @@
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Fiber-000000?style=for-the-badge&logo=go&logoColor=white" alt="Fiber" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
   <br/>
   <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
   <img src="https://img.shields.io/badge/Openstack-%23ed1944.svg?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
+  <img src="https://img.shields.io/badge/Anthos-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Distributed Cloud (Anthos)" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <br/>
-  <!-- Databases -->
+  <!-- Observability & Messaging -->
+  <img src="https://img.shields.io/badge/kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <br/>
+  <!-- Databases & Caching -->
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
 ---
