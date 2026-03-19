@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="NeverGiveUp.gif" alt="Never Give Up" height="150">
+  <img src="NeverGiveUp.gif" alt="Never Give Up" height="300">
 </div>
 
 <br/>
