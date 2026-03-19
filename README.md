@@ -1,69 +1,60 @@
 <h1 align="center">
-Hi, I'm Muhammet Burak Golec
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br/>
+  Hi there, I'm Muhammet Burak Golec 👋
+</h1>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h3 align="center">Recently Graduated | Cloud, Platform & DevSecOps Enthusiast</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=475&size=25&duration=3300&pause=1000&color=93F700&random=false&width=435&lines=Welcome+to+my+profile;+I'm+an+Engineering+Student;************)](https://git.io/typing-svg)
-
-```Go
-package life
-
-import "work"
-
-const Target = "DevSecOps"
-
-func main() {
-    work("init 5")
-    work("Never Give Up")
-    work.wait("Success")
-}
-```
-
-<br>
-
-
-<div align=center>
-        <img src="NeverGiveUp.gif" alt="" height="">
-    </div> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=475&size=22&duration=3000&pause=1000&color=93F700&center=true&vCenter=true&width=600&lines=Building+Resilient+Distributed+Systems;Problem-Solving+%26+Result-Oriented;Cloud+Native+%26+Security+Advocate" alt="Typing SVG" />
+</p>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/burakgolec" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
-         style="height: 58px !important;width: 210px !important;" >
-  </a>
+  <img src="NeverGiveUp.gif" alt="Never Give Up" height="150">
 </div>
 
-<br>
-
-
-
-## My Statistics
-
 <br/>
-<p align="left">
-  <a href="https://github.com/MuhammetBurakGolec">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MuhammetBurakGolec&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetBurakGolec&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<br>
-<br>
+
+## 🌟 About Me
+- 🎓 **I have officially graduated!** Ready to take on new challenges.
+- ☁️ My main focus areas are **Cloud Computing, Platform Engineering, DevOps, and Security (DevSecOps)**.
+- 🎯 **Mentality**: I don't just use tools like Kubernetes mechanically. I approach distributed systems with a **problem and result-oriented** mindset. My primary question is always: *"What value does this provide, and what more can be achieved?"*
+
+---
+
+## 🐍 Code-Eating Snake!
+A snake animation representing my latest GitHub contributions:
+<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammetBurakGolec/MuhammetBurakGolec/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammetBurakGolec/MuhammetBurakGolec/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammetBurakGolec/MuhammetBurakGolec/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 📊 My GitHub Stats
 <p align="center">
   <a href="https://github.com/MuhammetBurakGolec">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetBurakGolec&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammetBurakGolec&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetBurakGolec&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-</br>
-
-<br>
-
-### Talk with me
-
-<p float="left">
-<a href="mailto:burakgolec.ofc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muhammet-burak-g%C3%B6le%C3%A7-71b2871b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="https://github.com/MuhammetBurakGolec">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetBurakGolec&theme=tokyonight&hide_border=true&layout=compact" />
+  </a>
 </p>
 
-<h1 align="center">Anfall är bästa försvar.</h1>
+---
+
+## 📬 Connect with Me
+<p align="center">
+  <a href="mailto:burakgolec.ofc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammet-burak-g%C3%B6le%C3%A7-71b2871b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+📖 **Documentation:** Read my architectural approach, best practices, and detailed profile notes in the [docs/README.md](./docs/README.md).
