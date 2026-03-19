@@ -2,10 +2,10 @@
   Hi there, I'm Muhammet Burak Golec 👋
 </h1>
 
-<h3 align="center">Recently Graduated | Cloud, Platform & DevSecOps Enthusiast</h3>
+<h3 align="center">Computer Engineer | Cloud, Platform & DevSecOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=475&size=22&duration=3000&pause=1000&color=93F700&center=true&vCenter=true&width=600&lines=Building+Resilient+Distributed+Systems;Problem-Solving+%26+Result-Oriented;Cloud+Native+%26+Security+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=475&size=22&duration=3000&pause=1000&color=93F700&center=true&vCenter=true&width=600&lines=Computer+Engineer;Distributed+Systems+%26+Kubernetes;Problem-Solving+%26+Result-Oriented" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -15,9 +15,10 @@
 <br/>
 
 ## 🌟 About Me
-- 🎓 **I have officially graduated!** Ready to take on new challenges.
+- 🎓 I recently graduated as a **Computer Engineer**.
 - ☁️ My main focus areas are **Cloud Computing, Platform Engineering, DevOps, and Security (DevSecOps)**.
-- 🎯 **Mentality**: I don't just use tools like Kubernetes mechanically. I approach distributed systems with a **problem and result-oriented** mindset. My primary question is always: *"What value does this provide, and what more can be achieved?"*
+- 💻 **Tech Stack & Tools:** Golang, Fiber, Python, Bash, PostgreSQL, Linux, Kubernetes, Proxmox, AWS, GCP, Azure.
+- 🎯 **Mentality**: I approach distributed systems with a **problem and result-oriented** mindset. Instead of just using tools like Kubernetes mechanically, my primary focus is always: *"What exact problem does this solve, and what real value does it provide?"*
 
 ---
 
