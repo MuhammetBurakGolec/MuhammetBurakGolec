@@ -51,8 +51,7 @@
 
 ---
 
-## 🐍 Code-Eating Snake!
-A snake animation representing my latest GitHub contributions:
+## 🌟 My GitHub Contributions
 <br/>
 <div align="center">
   <picture>
